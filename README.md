@@ -1,4 +1,4 @@
-# 👉Seminar
+# 👉 Seminar
 ---
 ## 1주차
 - 주제 : Go Background, Features, Advantages, Syntax(1)
@@ -20,7 +20,7 @@
 - 발표자 : 김건
 - 일자 : 4월 2일
 
-# 👉Rule
+# 👉 Rule
 ---
 - 장소 : ELLO 카페
 - 총무 : 김건
@@ -36,7 +36,7 @@
 - 보고서 부장 : 고세원, 최록산, 신동욱
 - 디자인 부장 : 이원준
 
-# 👉Project
+# 👉 Project
 ---
 - [ ] 학번 독립적 KHU SNS(화석 싫어요)
 - [ ] 영상 처리, 머신 러닝을 활용한 심마니 앱
