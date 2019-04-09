@@ -40,7 +40,7 @@
 ---
 - [ ] 학번 독립적 KHU SNS(화석 싫어요)
 - [ ] 영상 처리, 머신 러닝을 활용한 심마니 앱
-- [X] KHU 스포츠 커뮤니티
+- [X] [KHU 스포츠 커뮤니티](https://github.com/khu-go-study/sports-community)
 - [ ] 실시간 영상 전처리 스트리밍 플랫폼
 - [ ] 동아리 관련 KHU SNS
 - [ ] 헬스 App
